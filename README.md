@@ -1,6 +1,8 @@
 node-ifconfig
 =============
 
+System-agent-core使用，開發者未推到 npm，fork 回來做保留
+
 exec ifconfig and parse results into nested objects
 
 ## Motivation
